@@ -1,4 +1,4 @@
-# IBM---Final-Project.
+# IBM-Final-Project.
 Capstone project for Edunet - IBM Internship.
 
 Topic - Digital Financial Literacy AI Agent
